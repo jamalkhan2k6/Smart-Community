@@ -1,2 +1,3 @@
 # Smart-Community
-Smart Community helps locals create a better community by reporting local problems like trashdumps, potholes, vandalism and any illegal activity. The submitted problems are posted on city map with pictures and comments.
+Smart Community helps locals create a better community by reporting local problems like trashdumps, potholes, vandalism and any illegal activity. The submitted problems are posted on city map with pictures and comments. The community members can vote up or down each problem to prioritize it. The app helps users post the problems from anywhere and tracks the government response to each problem.
+The app also helps in solving small problems which the community can fix without involving the government. This can be done by scheduling a meetup in the comments and taking matter into their own hands.
